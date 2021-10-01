@@ -15,7 +15,7 @@
   print(width, height)
 
 5)
-   the resize() method to resize the image.
+   image.resize((100,100))
 6)
   save() saves this image under the given filename,if no format is specified then the format to use is determined from the filename extension.
 
